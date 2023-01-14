@@ -20,4 +20,7 @@
 
 5. mega tutorial by miguel grinberg
     [https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world]
+    
+6. sqlite complete text tutorial
+    [https://www.quackit.com/sqlite/tutorial/sqlite_installation.cfm]
 
